@@ -89,6 +89,7 @@ public class UserTest {
 					user.setSex("男");
 				} else {
 					user.setSex("女");
+					
 				}
 			//手机以13开头+9位随机数模拟				
 				String mun="";
